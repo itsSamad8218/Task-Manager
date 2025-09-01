@@ -2,6 +2,8 @@
 
 A modern, full-stack task management application with user authentication, CRUD operations, and an attractive dark theme.
 
+LIVE DEMO-VERCEL- https://task-manager-git-main-abdul-samads-projects-4cc4b913.vercel.app/
+
 ## Features
 
 - **User Authentication**: JWT-based sign-up/login system
@@ -142,14 +144,3 @@ NODE_ENV=production
 - created_at (DATETIME)
 - updated_at (DATETIME)
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-MIT License - feel free to use this project for personal or commercial purposes.
