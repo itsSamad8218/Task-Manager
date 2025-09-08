@@ -2,7 +2,7 @@
 
 A modern, full-stack task management application with user authentication, CRUD operations, and an attractive dark theme.
 
-LIVE DEMO-VERCEL- https://task-manager-git-main-abdul-samads-projects-4cc4b913.vercel.app/
+LIVE DEMO-VERCEL-    https://task-manager-pearl-sigma.vercel.app/
 
 ## Features
 
@@ -17,7 +17,6 @@ LIVE DEMO-VERCEL- https://task-manager-git-main-abdul-samads-projects-4cc4b913.v
 
 ### Frontend
 - React.js with TypeScript
-- shadcn/ui components
 - Tailwind CSS for styling
 - React Router for navigation
 - Lucide React for icons
